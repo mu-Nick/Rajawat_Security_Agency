@@ -3,7 +3,7 @@ import React from "react";
 const Services = () => {
 	return (
 		<div>
-			<h1 class="center" style={{ fontSize: "3vw" }}>
+			<h1 class="title-font sm:text-6xl text-4xl mb-4 font-medium text-gray-900 center">
 				Our Services
 			</h1>
 			<section class="text-gray-700 body-font">
@@ -21,7 +21,6 @@ const Services = () => {
 								<h2 class="text-gray-900 title-font text-lg font-medium">
 									Civil Guards
 								</h2>
-								<p class="mt-1">$16.00</p>
 							</div>
 						</div>
 						<div class="lg:w-1/4 md:w-1/2 p-4 w-full">
@@ -36,7 +35,6 @@ const Services = () => {
 								<h2 class="text-gray-900 title-font text-lg font-medium">
 									Armed Gunmen
 								</h2>
-								<p class="mt-1">$21.15</p>
 							</div>
 						</div>
 						<div class="lg:w-1/4 md:w-1/2 p-4 w-full">
@@ -51,7 +49,6 @@ const Services = () => {
 								<h2 class="text-gray-900 title-font text-lg font-medium">
 									Detective
 								</h2>
-								<p class="mt-1">$12.00</p>
 							</div>
 						</div>
 						<div class="lg:w-1/4 md:w-1/2 p-4 w-full">
@@ -66,7 +63,6 @@ const Services = () => {
 								<h2 class="text-gray-900 title-font text-lg font-medium">
 									Marketing Manpower
 								</h2>
-								<p class="mt-1">$18.40</p>
 							</div>
 						</div>
 						<div class="lg:w-1/4 md:w-1/2 p-4 w-full">
@@ -81,7 +77,6 @@ const Services = () => {
 								<h2 class="text-gray-900 title-font text-lg font-medium">
 									Bouncers
 								</h2>
-								<p class="mt-1">$16.00</p>
 							</div>
 						</div>
 						<div class="lg:w-1/4 md:w-1/2 p-4 w-full">
@@ -96,7 +91,6 @@ const Services = () => {
 								<h2 class="text-gray-900 title-font text-lg font-medium">
 									Office Peon
 								</h2>
-								<p class="mt-1">$21.15</p>
 							</div>
 						</div>
 						<div class="lg:w-1/4 md:w-1/2 p-4 w-full">
@@ -111,7 +105,6 @@ const Services = () => {
 								<h2 class="text-gray-900 title-font text-lg font-medium">
 									Dog Securities
 								</h2>
-								<p class="mt-1">$12.00</p>
 							</div>
 						</div>
 						<div class="lg:w-1/4 md:w-1/2 p-4 w-full">
@@ -126,7 +119,6 @@ const Services = () => {
 								<h2 class="text-gray-900 title-font text-lg font-medium">
 									PSO
 								</h2>
-								<p class="mt-1">$18.40</p>
 							</div>
 						</div>
 					</div>

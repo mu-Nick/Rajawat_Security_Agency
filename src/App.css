@@ -8,7 +8,7 @@ a {
 }
 
 .logoimg {
-  width: 10%;
+  width: 13%;
 }
 
 nav {
@@ -53,11 +53,17 @@ nav .brand-logo {
 
 @media only screen and (max-width: 600px) {
   .parallax-container {
-    height: 500px;
+    height: 250px;
   }
 }
 
 #side-overlay {
 
   z-index: 1;
+}
+
+.browser-default {
+
+  list-style-type: square !important;
+  list-style-position: inside !important;
 }

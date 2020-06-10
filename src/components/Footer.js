@@ -8,7 +8,9 @@ const Footer = () => {
         <div class="col s6">
           <div class="row">
             <div class="col s12">
-              <h1 style={{ fontSize: "2vw" }}>Contact Us</h1>
+              <h1 class="title-font sm:text-5xl text-3xl mb-4 font-medium text-gray-900 left">
+                Contact
+              </h1>
             </div>
             <br />
             <div class="col s12">
@@ -25,7 +27,7 @@ const Footer = () => {
             </div>
             <div class="col s12">
               <i className="material-icons">email</i>
-              <p>abc@gmail.com</p>
+              <p>dsrajawat0788@gmail.com</p>
             </div>
           </div>
         </div>
@@ -33,7 +35,9 @@ const Footer = () => {
           <div class="row">
             <div class="row">
               <div class="col s12">
-                <h1 style={{ fontSize: "2vw" }}>Quick Links</h1>
+                <h1 class="title-font sm:text-5xl text-3xl mb-4 font-medium text-gray-900 left">
+                  Quick Links
+                </h1>
               </div>
               <br />
               <br />

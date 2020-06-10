@@ -18,12 +18,9 @@ const NavBar = () => {
               src={require("../assets/images/logo.png")}
               alt="LOGO"
             />
-            <h4
-              className="left"
-              style={{ paddingLeft: "15px", fontSize: "3vw" }}
-            >
+            <h1 class="title-font sm:text-6xl text-2xl mb-4 font-medium text-gray-900 left">
               Rajawat Security Agency
-            </h4>
+            </h1>
           </Link>
           <a
             data-target="mobile-demo"

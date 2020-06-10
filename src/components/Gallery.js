@@ -3,7 +3,7 @@ import React from "react";
 const Gallery = () => {
 	return (
 		<div>
-			<h1 class="center" style={{ fontSize: "3vw" }}>
+			<h1 class="title-font sm:text-6xl text-4xl mb-4 font-medium text-gray-900 center">
 				Photo Gallery
 			</h1>
 			<section class="text-gray-700 body-font">

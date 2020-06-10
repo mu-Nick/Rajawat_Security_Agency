@@ -24,7 +24,7 @@ const Contact = () => {
 
 	return (
 		<div>
-			<h1 class="center" style={{ fontSize: "3vw" }}>
+			<h1 class="title-font sm:text-6xl text-4xl mb-4 font-medium text-gray-900 center">
 				Contact Us
 			</h1>
 			<section class="text-gray-700 body-font relative">
@@ -57,7 +57,7 @@ const Contact = () => {
 									EMAIL
 								</h2>
 								<a class="text-indigo-500 leading-relaxed">
-									example@email.com
+									dsrajawat0788@email.com
 								</a>
 								<h2 class="title-font font-medium text-gray-900 tracking-widest text-sm mt-4">
 									PHONE
