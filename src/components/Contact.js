@@ -47,9 +47,7 @@ const Contact = () => {
 									ADDRESS
 								</h2>
 								<p class="leading-relaxed">
-									Near-T-3, Plot No. 493, Jagdamba Apartment,
-									Swarn Vihar, Muhana Mandi Gate No. 2,
-									Sanganer, Jaipur
+									Ricco Puliya Ke Neche, Ricco Kanta, Kalyanpura Road, Mansarovar, Jaipur - 302020
 								</p>
 							</div>
 							<div class="lg:w-1/2 px-6 mt-4 lg:mt-0">
@@ -57,7 +55,7 @@ const Contact = () => {
 									EMAIL
 								</h2>
 								<a class="text-indigo-500 leading-relaxed">
-									dsrajawat0788@email.com
+									dsrajawat0788@gmail.com
 								</a>
 								<h2 class="title-font font-medium text-gray-900 tracking-widest text-sm mt-4">
 									PHONE

@@ -16,8 +16,7 @@ const Footer = () => {
             <div class="col s12">
               <i className="material-icons">location_on</i>
               <p>
-                Near-T-3, Plot No. 493, Jagdamba Apartment, Swarn Vihar, Muhana
-                Mandi Gate No. 2, Sanganer, Jaipur
+                Ricco Puliya Ke Neche, Ricco Kanta, Kalyanpura Road, Mansarovar, Jaipur - 302020
               </p>
             </div>
             <div class="col s12">
