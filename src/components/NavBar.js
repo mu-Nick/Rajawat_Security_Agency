@@ -12,16 +12,16 @@ const NavBar = () => {
     <>
       <div style={{ top: "10px", position: "fixed", width: "100%" }}>
         <nav className="transparentBG" style={{ padding: "0% 3%" }}>
-          <Link to="/" className="brand-logo left">
+          {/* <Link to="/" className="brand-logo left"> */}
             <img
               className="logoimg responsive-img left"
               src={require("../assets/images/logo.png")}
               alt="LOGO"
             />
-            <h1 class="title-font sm:text-6xl text-2xl mb-4 font-medium text-gray-900 left">
-              Rajawat Security Agency
-            </h1>
-          </Link>
+          {/* </Link> */}
+          <h1 class="title-font sm:text-6xl text-2xl mb-4 font-medium text-gray-900 left">
+            Rajawat Security Agency
+          </h1>
           <a
             data-target="mobile-demo"
             className="sidenav-trigger right"

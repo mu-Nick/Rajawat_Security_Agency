@@ -9,12 +9,12 @@ const Services = () => {
 			<section class="text-gray-700 body-font">
 				<div class="container px-5 py-24 mx-auto">
 					<div class="flex flex-wrap -m-4">
-						<div class="lg:w-1/4 md:w-1/2 p-4 w-full">
+						<div class="lg:w-1/4 md:w-1/2 p-4 ">
 							<a class="block relative h-48 rounded overflow-hidden">
 								<img
-									alt="ecommerce"
-									class="object-cover object-center w-full h-full block"
-									src="https://rrsecurityservices.com/images/cg1.jpg"
+									alt="Civil Guards Photo"
+									class="object-cover object-center h-full block"
+									src={require("../assets/images/services/civil guards.jpeg")}
 								/>
 							</a>
 							<div class="mt-4">
@@ -23,12 +23,12 @@ const Services = () => {
 								</h2>
 							</div>
 						</div>
-						<div class="lg:w-1/4 md:w-1/2 p-4 w-full">
+						<div class="lg:w-1/4 md:w-1/2 p-4 ">
 							<a class="block relative h-48 rounded overflow-hidden">
 								<img
-									alt="ecommerce"
-									class="object-cover object-center w-full h-full block"
-									src="https://rrsecurityservices.com/images/ag1.jpg"
+									alt="Armed Gunmen Photo"
+									class="object-cover object-center h-full block"
+									src={require("../assets/images/services/armed gunmen.jpeg")}
 								/>
 							</a>
 							<div class="mt-4">
@@ -37,12 +37,12 @@ const Services = () => {
 								</h2>
 							</div>
 						</div>
-						<div class="lg:w-1/4 md:w-1/2 p-4 w-full">
+						<div class="lg:w-1/4 md:w-1/2 p-4 ">
 							<a class="block relative h-48 rounded overflow-hidden">
 								<img
-									alt="ecommerce"
-									class="object-cover object-center w-full h-full block"
-									src="https://rrsecurityservices.com/images/ds.jpg"
+									alt="Detective Photo"
+									class="object-cover object-center h-full block"
+									src={require("../assets/images/services/detective.jpeg")}
 								/>
 							</a>
 							<div class="mt-4">
@@ -51,12 +51,12 @@ const Services = () => {
 								</h2>
 							</div>
 						</div>
-						<div class="lg:w-1/4 md:w-1/2 p-4 w-full">
+						<div class="lg:w-1/4 md:w-1/2 p-4 ">
 							<a class="block relative h-48 rounded overflow-hidden">
 								<img
-									alt="ecommerce"
-									class="object-cover object-center w-full h-full block"
-									src="https://rrsecurityservices.com/images/mm.jpg"
+									alt="Marketing Manpower Photo"
+									class="object-cover object-center  h-full block"
+									src={require("../assets/images/services/marketing manpower.jpeg")}
 								/>
 							</a>
 							<div class="mt-4">
@@ -65,12 +65,12 @@ const Services = () => {
 								</h2>
 							</div>
 						</div>
-						<div class="lg:w-1/4 md:w-1/2 p-4 w-full">
+						<div class="lg:w-1/4 md:w-1/2 p-4 ">
 							<a class="block relative h-48 rounded overflow-hidden">
 								<img
-									alt="ecommerce"
-									class="object-cover object-center w-full h-full block"
-									src="https://rrsecurityservices.com/images/bn.jpg"
+									alt="Bouncers Photo"
+									class="object-cover object-center  h-full block"
+									src={require("../assets/images/services/bouncers.jpeg")}
 								/>
 							</a>
 							<div class="mt-4">
@@ -79,12 +79,12 @@ const Services = () => {
 								</h2>
 							</div>
 						</div>
-						<div class="lg:w-1/4 md:w-1/2 p-4 w-full">
+						<div class="lg:w-1/4 md:w-1/2 p-4 ">
 							<a class="block relative h-48 rounded overflow-hidden">
 								<img
-									alt="ecommerce"
-									class="object-cover object-center w-full h-full block"
-									src="https://rrsecurityservices.com/images/peon.jpg"
+									alt="Office Peon Photo"
+									class="object-cover object-center  h-full block"
+									src={require("../assets/images/services/office peon.jpeg")}
 								/>
 							</a>
 							<div class="mt-4">
@@ -93,12 +93,12 @@ const Services = () => {
 								</h2>
 							</div>
 						</div>
-						<div class="lg:w-1/4 md:w-1/2 p-4 w-full">
+						<div class="lg:w-1/4 md:w-1/2 p-4 ">
 							<a class="block relative h-48 rounded overflow-hidden">
 								<img
-									alt="ecommerce"
-									class="object-cover object-center w-full h-full block"
-									src="https://rrsecurityservices.com/images/sdog.jpg"
+									alt="Dog Securities Photo"
+									class="object-cover object-center  h-full block"
+									src={require("../assets/images/services/dog security.jpeg")}
 								/>
 							</a>
 							<div class="mt-4">
@@ -107,12 +107,12 @@ const Services = () => {
 								</h2>
 							</div>
 						</div>
-						<div class="lg:w-1/4 md:w-1/2 p-4 w-full">
+						<div class="lg:w-1/4 md:w-1/2 p-4 ">
 							<a class="block relative h-48 rounded overflow-hidden">
 								<img
-									alt="ecommerce"
-									class="object-cover object-center w-full h-full block"
-									src="https://rrsecurityservices.com/images/pso.jpg"
+									alt="PSO Photo"
+									class="object-cover object-center  h-full block"
+									src={require("../assets/images/services/pso.jpeg")}
 								/>
 							</a>
 							<div class="mt-4">
